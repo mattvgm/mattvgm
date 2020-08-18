@@ -23,12 +23,14 @@
 ##### Languages and preferences
 
 
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/react.JS/Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/STYLED%20COMPONENTS-grey?logo=styled-components&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESLINT-grey?logo=eslint&style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/react.JS/Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/STYLED%20COMPONENTS-grey?logo=styled-components&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESLINT-grey?logo=eslint&style=for-the-badge"/>
+</p>
 
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
