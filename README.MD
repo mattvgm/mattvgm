@@ -5,7 +5,7 @@
 * ❤ I Love technology and everything I can use from it to make the world a better place. But aside from a Full-stack Developer I Love making games and Computer Graphics;
 * 🔨 I'm currently working on a M.E.R.N. Stack and trying to improve myself every day. 
 * 🌍 I Speak English and Portuguese;
-* 🎮 Besides playing videogames I like to make them too, my favorite game engines are Unreal Engine and Godot, but I also have used Unity3D;
+* 🎮 Besides playing videogames I like to make them too, my favorite game engines are Unreal Engine and Godot, but I used Unity3D too;
 * 💬 Ask me about anything I know, what I don't know yet we can learn. I'm also open to feedbacks and constructive critics.
 * 🔍 Fun-Fact: I play piano and guitar.
 
