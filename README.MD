@@ -32,22 +32,30 @@
   <img src="https://img.shields.io/badge/ESLINT-grey?logo=eslint&style=for-the-badge"/>
 </p>
 
-<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REDIS-grey?logo=redis&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<p>
+    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REDIS-grey?logo=redis&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/Arch%20Linux-grey?logo=arch-linux&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Linux-grey?logo=linux&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ubuntu-grey?logo=ubuntu&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/windows-grey?logo=windows&style=for-the-badge"/>
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/Unreal%20Engine-grey?logo=unreal-engine&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GODOT%20Engine-grey?logo=godot-engine&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Blender-grey?logo=blender&style=for-the-badge"/>
+</p>
 
+<p>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</p>
