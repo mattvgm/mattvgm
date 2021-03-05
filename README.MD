@@ -22,9 +22,10 @@
 
 ##### Languages and preferences
 
+
 <p>
   <img src="https://img.shields.io/badge/Java-F96F29?logo=java&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-F96F29?logo=spring&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%20sharp-004466?logo=c-sharp&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/dotNet-512BD4?logo=.net&style=for-the-badge&logoColor=white"/>
 </p>
