@@ -1,9 +1,9 @@
 ### Hello, how are you doing?
 
-👦🏻 My name is Matheus and I'm 24yo code artisan handcrafting dreams. I live in São Paulo, Brazil and I work as Project Manager and Developer at TIM Brasil. I Love studying and I always try to learn something new.
+👦🏻 My name is Matheus and I'm 24yo code artisan handcrafting dreams. I live in São Paulo, Brazil and I work as Software Engineer. I Love studying and I always try to learn something new.
 
-* ❤ I Love technology and everything I can use from it to make the world a better place. But aside from a Full-stack Developer I Love making games and Computer Graphics;
-* 🔨 I'm currently working on a M.E.R.N. Stack and trying to improve myself every day. 
+* ❤ I Love technology and everything I can use from it to make the world a better place. But aside from Developer I Love making games and CGI;
+* 🔨 I work with .NET,JAVA or NodeJS and I'm trying to improve every single day.
 * 🌍 I Speak English and Portuguese;
 * 🎮 Besides playing videogames I like to make them too, my favorite game engines are Unreal Engine and Godot, but I used Unity3D too;
 * 💬 Ask me about anything I know, what I don't know yet we can learn. I'm also open to feedbacks and constructive critics.
@@ -22,11 +22,17 @@
 
 ##### Languages and preferences
 
+<p>
+  <img src="https://img.shields.io/badge/Java-F96F29?logo=java&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-F96F29?logo=spring&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20sharp-004466?logo=c-sharp&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dotNet-512BD4?logo=.net&style=for-the-badge&logoColor=white"/>
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/react.JS/Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://img.shields.io/badge/STYLED%20COMPONENTS-grey?logo=styled-components&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ESLINT-grey?logo=eslint&style=for-the-badge"/>
@@ -56,6 +62,5 @@
 
 <p>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 </p>
