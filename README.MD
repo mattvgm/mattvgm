@@ -1,10 +1,10 @@
 ### Hello, how are you doing?
 
-👦🏻 My name is Matheus and I'm 25yo code artisan handcrafting dreams. I live in São Paulo, Brazil and I work as Software Engineer. I Love studying and I always try to learn something new.
+👦🏻 My name is Matheus and I'm 26yo code artisan handcrafting dreams. I was born in São Paulo, Brazil but now I live in Montreal,Canada. I work as Senior Software Engineer. I Love studying and I always try to learn something new.
 
 * ❤ I Love technology and everything I can use from it to make the world a better place. But aside from Developer I Love making games and CGI;
 * 🔨 I work with .NET,JAVA or NodeJS and I'm trying to improve every single day.
-* 🌍 I Speak English and Portuguese;
+* 🌍 I Speak English, Portuguese and French;
 * 🎮 Besides playing videogames I like to make them too, my favorite game engines are Unreal Engine and Godot, but I've used Unity3D too;
 * 💬 Ask me about anything I know, what I don't know yet we can learn. I'm also open to feedbacks and constructive critics.
 * 🔍 Fun-Fact: I play piano and guitar.
